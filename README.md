@@ -1,4 +1,3 @@
-<span style="color: red">TODO</span> FINISH THIS BEFORE PRESENTING!!!
 # CapstoneProject
 ***
 Capstone project for the AI academy 
@@ -13,7 +12,7 @@ For this project, Deloitte was contracted by the fictitious company Computing Vi
 
 Our team examined a variety of factors pertaining to recent movie releases (2010-present). Of particular interest were the effects of the budget, genre, director, and release date on gross profit and profit ratio.
 
-### [Data Sources]()
+### Data Sources
 ***
 * [Box Office Mojo](https://www.boxofficemojo.com/)
 * [IMDB](https://www.imdb.com/)
@@ -41,18 +40,18 @@ From our analysis, we suggest that Computing Vision...
 
 #### Acknowledgements
 ***
-https://github.com/python/cpython/blob/3.10/Lib/warnings.py
-https://github.com/python/cpython/blob/3.10/Lib/zipfile.py
-https://jupyter.org/
-https://matplotlib.org/
-https://matplotlib.org/
-https://numpy.org/
-https://pandas.pydata.org/
-https://plotly.com/python/
-https://pypi.org/project/tabulate/
-https://scipy.org/
-https://seaborn.pydata.org/
-https://www.sqlite.org/index.html
-https://www.statsmodels.org/stable/index.html
+https://github.com/python/cpython/blob/3.10/Lib/warnings.py  
+https://github.com/python/cpython/blob/3.10/Lib/zipfile.py  
+https://jupyter.org/  
+https://matplotlib.org/  
+https://matplotlib.org/  
+https://numpy.org/  
+https://pandas.pydata.org/  
+https://plotly.com/python/  
+https://pypi.org/project/tabulate/  
+https://scipy.org/  
+https://seaborn.pydata.org/  
+https://www.sqlite.org/index.html  
+https://www.statsmodels.org/stable/index.html  
 
 [Python 3.9.12](https://www.python.org/) Copyright ©2001-2022. [Python Software Foundation](https://www.python.org/psf-landing/)
