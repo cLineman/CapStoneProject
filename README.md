@@ -2,7 +2,7 @@
 ***
 Capstone project for the AI academy 
 
-Team Name: DJ Dirty Pandas
+Team Name: DJ Dirty Pandas  
 <img src="https://www.publicdomainpictures.net/pictures/50000/velka/panda-bear-1372644508TmI.jpg" alt="panda" width="150"/>
 
 All final products, including the [presentation](https://github.com/cLineman/CapStoneProject/blob/main/Capstone_Presentation.pdf) and the [Juptyer notebook](https://github.com/cLineman/CapStoneProject/blob/main/FinalProduct.ipynb), are in the main repository. Personal notebooks are located in [./personal_notebooks/](https://github.com/cLineman/CapStoneProject/tree/main/personal_notebooks) and data files are located in [./zippedData/](https://github.com/cLineman/CapStoneProject/tree/main/zippedData).
