@@ -2,7 +2,8 @@
 ***
 Capstone project for the AI academy 
 
-Team Name: DJ Dirty Pandas     <img src="https://www.publicdomainpictures.net/pictures/50000/velka/panda-bear-1372644508TmI.jpg" alt="panda" width="200"/>
+Team Name: DJ Dirty Pandas
+<img src="https://www.publicdomainpictures.net/pictures/50000/velka/panda-bear-1372644508TmI.jpg" alt="panda" width="150"/>
 
 All final products, including the [presentation](https://github.com/cLineman/CapStoneProject/blob/main/Capstone_Presentation.pdf) and the [Juptyer notebook](https://github.com/cLineman/CapStoneProject/blob/main/FinalProduct.ipynb), are in the main repository. Personal notebooks are located in [./personal_notebooks/](https://github.com/cLineman/CapStoneProject/tree/main/personal_notebooks) and data files are located in [./zippedData/](https://github.com/cLineman/CapStoneProject/tree/main/zippedData).
 
@@ -40,7 +41,7 @@ From our analysis, we suggest that Computing Vision...
 - Choose a director with a history of well-rated movies to maximize profit and profit ratio.  
 - Release new movies during the summer as that season tends to yield higher gross profits than other seasons.
 
-![Making Money](https://giphy.com/embed/LCdPNT81vlv3y)
+![Making Money](https://media3.giphy.com/media/LCdPNT81vlv3y/giphy.gif?cid=790b7611dcce7811c4839d2c698a8a11eca16053e8e2c767&rid=giphy.gif&ct=g)
 
 #### Acknowledgements
 ***
